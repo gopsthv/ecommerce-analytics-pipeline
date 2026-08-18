@@ -280,23 +280,6 @@ This project demonstrates practical experience in:
 
 ---
 
-## 🔗 Project Repository
-
-**GitHub:**
-https://github.com/gopsthv/ecommerce-analytics-pipeline
-
----
-
-## 👤 Author
-
-**Gopikadevi**
-
-B.Tech Artificial Intelligence & Data Science
-
-GitHub:
-https://github.com/gopsthv
-
----
 
 ## ⭐ Project Summary
 
