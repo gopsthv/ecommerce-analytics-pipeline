@@ -123,6 +123,8 @@ The analysis produced several important findings:
 Add your Power BI dashboard screenshot here:
 
 ```markdown
+## 📸 Dashboard Preview
+
 ![Power BI Dashboard](dashboard/dashboard_preview.png)
 ```
 
