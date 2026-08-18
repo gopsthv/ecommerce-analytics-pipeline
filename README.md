@@ -118,17 +118,12 @@ The analysis produced several important findings:
 
 ---
 
+
 ## 📸 Dashboard Preview
 
-Add your Power BI dashboard screenshot here:
+![E-Commerce Analytics Dashboard](dashboard/dashboard_preview.png)
 
-```markdown
-## 📸 Dashboard Preview
-
-![Power BI Dashboard](dashboard/dashboard_preview.png)
-```
-
-> Replace the image path above with the exact location of your dashboard screenshot if the filename is different.
+---
 
 ---
 
